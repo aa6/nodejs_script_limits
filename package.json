@@ -1,0 +1,28 @@
+{
+  "name": "script-limits",
+  "version": "0.0.1",
+  "description": "Allows to impose limits on a script in a runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa6/nodejs_script_limits.git"
+  },
+  "keywords": [
+    "limit",
+    "limits",
+    "script",
+    "control"
+  ],
+  "author": "aa6",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aa6/nodejs_script_limits/issues"
+  },
+  "homepage": "https://github.com/aa6/nodejs_script_limits#readme",
+  "dependencies": {
+    "tripwire": "^4.1.0"
+  }
+}
