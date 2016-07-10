@@ -12,7 +12,7 @@ script_limits = require "script-limits"
 
 script_limits
   memory_limit: 100*1000*1000
-  execution_timeout: 10*(60*60*1000)
+  execution_timeout: 30*(60*1000)
   infinite_loop_timeout: 2000
 ```
 
