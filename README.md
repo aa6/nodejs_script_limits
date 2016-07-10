@@ -17,4 +17,4 @@ script_limits
 ```
 
 ## Dependencies
-- [`tripwire`](github.com/tjanczuk/tripwire)
+- [`tripwire`](https://github.com/tjanczuk/tripwire)
